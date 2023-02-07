@@ -1,7 +1,7 @@
 # MCM_STATA
 Implementing Mobility Contrast Model in STATA
 
-Luo, Liying. Forthcoming. “Heterogeneous Effects of Intergenerational Social Mobility: An Improved Method and New Evidence.” *American Sociological Review*
+Luo, Liying. 2022. “Heterogeneous Effects of Intergenerational Social Mobility: An Improved Method and New Evidence.” *American Sociological Review* 87(1): 143-173. https://doi.org/10.1177/00031224211052028
 
 # Example
 Syntax --
